@@ -25,7 +25,7 @@
 <p>
 <hr>
 <h3 align='center'> Projects</h3>
-  # 1. Shafi College <a href="https://shaficollege.netlify.app"> Link </a>
+   1. Shafi College <a href="https://shaficollege.netlify.app"> Link </a>
            <hr>
 <h6 align='center'>
   / <> with 🧡 By Mohd Taimur Khan /
